@@ -9,14 +9,14 @@ Hi there! 👋
 🔹 Actualmente aprendiendo y mejorando mis habilidades en Python, JavaScript y C++.
 🔹 Explorando el desarrollo con el stack PERN (PostgreSQL, Express.js, React, Node.js) y machine learning.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 Lenguajes
 🟢 Python | 🔵 C++ | 🟡 JavaScript | 🟠 Java | 🔴 HTML5/CSS3
 
-Frameworks y Librerías
+#Frameworks y Librerías
 ⚡ React | TailwindCSS | Express.js | Flask | TensorFlow | Pandas
 
-Herramientas y Tecnologías
+#Herramientas y Tecnologías
 🛠️ Git | GitHub | Docker | Google Cloud | MySQL | PostgreSQL | Firebase | Supabase
 
 📂 Proyectos
