@@ -1,40 +1,29 @@
 
 # Hi there 👋  
+🌟 I’m a sixth-semester Software Engineering student (ITS) with a strong passion for technology and software development.  
+🧩 I thrive on the challenges and creativity of both front-end and back-end development. My expertise includes modern frameworks, fuzzy systems, and cloud technologies.  
+🚀 Currently, I'm diving deep into data structures, algorithms, and expanding my knowledge in web development with the PERN stack (PostgreSQL, Express.js, React, Node.js) and machine learning.  
+📚 Eager to collaborate on projects involving JavaScript, Python, and C++.  
+🔍 I’m always exploring new technologies and frameworks, aiming to contribute to innovative solutions and impactful projects.  
+🗺️ You can view my portfolio [Click](#).  
+📄 Check out my resume [Click](#).  
 
-🚀 **Software Engineering Student | Tech Enthusiast | Problem Solver**  
+## 💻 Tech Stack  
 
-## 🌟 About Me  
-💡 **I'm Eythel Vega**, a **Software Engineering student (ITS)** with a strong passion for technology and software development. I enjoy exploring new tools and solving problems through programming.  
+### **Languages**  
+Python | C++ | JavaScript | Java | HTML5 | CSS3  
 
-🔹 **Interests:** Full-stack development, artificial intelligence, fuzzy systems, and automation.  
-🔹 Currently learning **Python, JavaScript, and C++**.  
-🔹 Exploring the **PERN stack** (PostgreSQL, Express.js, React, Node.js) and machine learning.  
+### **Frameworks**  
+React | TailwindCSS | Node.js | Express.js | Flask  
 
----
+### **Tools & Technologies**  
+Git | GitHub | Docker | Visual Studio Code | Google Cloud | MySQL | PostgreSQL | Firebase | Supabase  
 
-## 🛠️ Tech Stack  
+### **Libraries**  
+TensorFlow | Pandas  
 
-### 🖥️ **Programming Languages**  
-🔹 Python | C++ | JavaScript | Java | HTML5 | CSS3  
-
-### ⚡ **Frameworks & Libraries**  
-🔹 React | TailwindCSS | Express.js | Flask | TensorFlow | Pandas  
-
-### 🛠️ **Tools & Technologies**  
-🔹 Git | GitHub | Docker | Google Cloud | MySQL | PostgreSQL | Firebase | Supabase  
-
----
-
-## 📂 Projects  
-💻 Currently working on a **School Management System for Colegio Villa Freinet**.  
-🎮 Also interested in developing **video games** and **AI-based systems**.  
-
----
-
-## 📬 Let's Connect!  
+## Let's Connect..!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-orange?logo=web)](https://your-portfolio.com)  
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobe)](https://drive.google.com/your-resume)  
 
 ---
 
