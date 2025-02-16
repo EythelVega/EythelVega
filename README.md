@@ -16,16 +16,16 @@
 
 ## 💻 **Tech Stack**  
 
-### 🖥️ **Languages**  
+###  **Languages**  
 ✅ **Python** | **C++** | **JavaScript** | **Java** | **HTML5** | **CSS3**  
 
-### ⚡ **Frameworks**  
+###  **Frameworks**  
 ✅ **React** | **TailwindCSS** | **Node.js** | **Express.js** | **Flask**  
 
-### 🛠️ **Tools & Technologies**  
+### **Tools & Technologies**  
 ✅ **Git** | **GitHub** | **Docker** | **VS Code** | **Google Cloud** | **MySQL** | **PostgreSQL** | **Firebase** | **Supabase**  
 
-### 📚 **Libraries**  
+### **Libraries**  
 ✅ **TensorFlow** | **Pandas**  
 
 ---
